@@ -31,7 +31,8 @@ A **personal card website** showcasing **Fayaal Paakeer** with dynamic role chan
 ---
 
 ## 🎬 Screenshots
-![Project Preview](https://via.placeholder.com/800x400?text=Screenshot+of+Personal+Card)
+![IMAGE 01](https://github.com/Fayaal-Paakeer/personal-card/blob/d3000552f3a89005c5867d52ceb790a132023101/S1.png)
+![IMAGE 02](https://github.com/Fayaal-Paakeer/personal-card/blob/d3000552f3a89005c5867d52ceb790a132023101/S2.png)
 
 ---
 
