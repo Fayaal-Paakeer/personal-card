@@ -46,4 +46,4 @@ https://github.com/user-attachments/assets/ba6091f2-93d0-4762-a067-7c98c29508e0
 ## 🛠️ How to Use
 ```sh
 git clone https://github.com/Fayaal-paakeer/personal-card.git
-cd Personal-Card
+cd personal-card
